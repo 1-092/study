@@ -1,2 +1,2 @@
 # study
-for study
+비개발자인데요 공부하려고요
